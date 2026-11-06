@@ -1,0 +1,32 @@
+[
+  {
+    "turn": 1,
+    "state": "IDENTITY",
+    "user": "Tell me about Destiny 2 - Season of the Lost (All Cutscenes & Dialogue).",
+    "response": "align the beacons guardian and signal the way home"
+  },
+  {
+    "turn": 2,
+    "state": "KNOWLEDGE",
+    "user": "Tell me about Astral Alignment — Transcript.",
+    "response": "If we are to survive the coming storm, the Tower and the Dreaming City must stand united."
+  },
+  {
+    "turn": 3,
+    "state": "RELATIONSHIP",
+    "user": "Tell me about Awaken, Queensguard: Infiltrate the Pyramid outpost in the EDZ — Transcript.",
+    "response": "Eliminate the Taken blight, and summon a Balefire in its place. It will consecrate this place and drive the Darkness out before it."
+  },
+  {
+    "turn": 4,
+    "state": "CONFLICT",
+    "user": "Tell me about Awaken, Queensguard: Meet with Mara Sov — Transcript.",
+    "response": "You will need more than the Light to stand against the Witness... but I can provide. Now go, and I will focus on the battles to come"
+  },
+  {
+    "turn": 5,
+    "state": "CLOSING",
+    "user": "Tell me about Cocoon — Transcript.",
+    "response": "Someone once told me the line between light and dark is very thin. Walk it alongside me. For Osiris. This will guide you; a powerful relic of Awoken design. Take it, and return to your H.E.L.M."
+  }
+]
