@@ -1,3 +1,11 @@
+<p align="center">
+  <img src='https://img.shields.io/github/v/release/sagaciouszu/destiny-agent-mara-sov?label=version&color=blue' alt='Version'/>
+  <a href='https://github.com/sagaciouszu/destiny-agent-mara-sov/actions/workflows/ci.yml'><img src='https://github.com/sagaciouszu/destiny-agent-mara-sov/actions/workflows/ci.yml/badge.svg' alt='CI'/></a>
+  <img src='https://img.shields.io/github/last-commit/sagaciouszu/destiny-agent-mara-sov?label=last%20push&color=blue' alt='Last push'/>
+  <img src='https://img.shields.io/badge/license-MIT-green' alt='License'/>
+  <img src='https://img.shields.io/badge/tests-18%2F18%20passing-brightgreen' alt='Tests'/>
+</p>
+
 # Mara Sov - Agent
 
 > **Version:** 0.1.3 | **Last updated:** 2026-11-07 | **Status:** Ready
