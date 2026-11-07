@@ -1,16 +1,18 @@
-# v0.1.0 - Mara Sov
+# 0.1.1 - Sync with destiny-agent-grimoire v0.29.0
 
-> **Depends On:** INDEX.md
-> **Token Estimate:** ~102 tokens
+**2026-11-07**
 
-**2026-11-05**
+The shared lore database behind this agent is now destiny-agent-grimoire
+v0.29.0 (schema 1.5.0):
 
-## What's Changed
+- `transcript_lines` now records attribution provenance for game captions
+  (`speaker_source`: `ishtar_containment` / `dialogue_node` / `line_prefix`);
+  counts unchanged (2,422 transcripts / 78,740 lines).
+- Game captions remain excluded from persona canon (the DB predicate
+  `source_tier != 'game_caption'` holds); no persona canon changes.
+- Verification: this repo's audits green against the released DB
+  (`tests/persona-freshness.py` rc=0); main `grimoire-master-audit.sh`
+  14/14; every gate referenced by this repo unchanged.
 
-- Initial Ghost Shell generated from the Destiny Agent Grimoire template
-- Persona entry, operating program, voice modules and shared-gate audit
-- Read-only consult copy wired at deployment time
-
-## Verification
-
-Module completeness, quote verification and shared structure checks pass.
+No content change. The full agent audits are run against the released
+database at each push.

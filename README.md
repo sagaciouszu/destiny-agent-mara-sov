@@ -1,5 +1,7 @@
 # Mara Sov - Agent
 
+> **Version:** 0.1.1 | **Last updated:** 2026-11-07 | **Status:** Ready
+
 > **Depends On:** AGENTS.md
 > **Token Estimate:** ~382 tokens
 
