@@ -1,6 +1,6 @@
 {
   "source": "tests/master-audit.sh",
-  "count": 18,
+  "count": 20,
   "suites": [
     {
       "name": "Module Completeness",
@@ -68,6 +68,16 @@
       "tier": "core"
     },
     {
+      "name": "Suite Manifest",
+      "command": "python3 $HERE/suite-manifest-test.py | grep -q 'manifest matches audit'",
+      "tier": "core"
+    },
+    {
+      "name": "Shared Helpers",
+      "command": "bash $HERE/shared-helpers-test.sh | grep -q 'Passed:.*Failed: 0'",
+      "tier": "core"
+    },
+    {
       "name": "Depends On Coverage",
       "command": "python3 $LORE/tests/check-agent-structure.py deps $WORKSPACE",
       "tier": "core"
@@ -92,5 +102,6 @@
       "command": "python3 $LORE/tests/check-agent-structure.py paths $WORKSPACE",
       "tier": "core"
     }
-  ]
+  ],
+  "agent": "destiny-agent-mara-sov"
 }
