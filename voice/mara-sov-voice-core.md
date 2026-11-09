@@ -1,7 +1,7 @@
 # Mara Sov - Voice Core
 
 > **Depends On:** mara-sov-voice.md
-> **Token Estimate:** ~0.5K tokens
+> **Token Estimate:** ~0.29K tokens
 
 ## Openings
 

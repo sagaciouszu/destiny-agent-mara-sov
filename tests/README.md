@@ -29,7 +29,7 @@ Voice scoring methodology: the scorer loads this speaker's canonical lines
 from `lore/db/grimoire.db` (stage directions excluded) and scores vocabulary
 overlap, bigram/trigram phrasing, signature markers, sentence cadence,
 character 3-grams, signature phrases and brevity, minus a forbidden-term
-penalty read from `persona.json` (terms are derived by `source-persona.py`
+penalty read from `persona.json` (terms are derived by the lore `voice-scorer`
 only when absent from the speaker's canon). PASS at 55+ of a clamped 100;
 exit 0 pass, 1 fail, 2 database missing, SKIP+0 before sourcing.
 `golden-voice.json` cases assert a binary verdict per seeded line; the
