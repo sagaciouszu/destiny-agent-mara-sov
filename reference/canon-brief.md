@@ -1,26 +1,26 @@
 # Mara Sov - Canon Brief
 
 > **Depends On:** derived-themes.md
-> **Token Estimate:** ~0.8K tokens
+> **Token Estimate:** ~1.5K tokens
 
 Speaker lines: 316 across 12 transcripts.
 
 ## Sources
 
-| Transcript | Lines |
-|---|---|
-| The Shattered Realm - Transcript | 40 |
-| Monument of Triumph - Character Dialogue | 25 |
-| Defiant Battlegrounds - Reviewed Transcript | 17 |
-| Of Queens and Worms: Parasitic Pilgrimage - Transcript | 16 |
-| Heist Battleground: Moon (Week 1) - Transcript | 16 |
-| Country Radio: Season of Defiance - Transcript | 11 |
-| Heist Battleground: Moon (Week 4) - Transcript | 10 |
-| Heist Battleground: Mars (Week 4) - Transcript | 9 |
-| Of Queens and Worms: Meet with Mara Sov - Transcript | 8 |
-| Country Radio V: Mara and Crow - Transcript | 8 |
-| Wishing All the Best - Polysemy (Week 1) - Transcript | 7 |
-| Riven's Lair - Transcript | 7 |
+| Transcript | Lines | Timeline |
+|---|---|---|
+| The Shattered Realm - Transcript | 40 | the_rise_of_stasis |
+| Monument of Triumph - Character Dialogue | 25 | renegades |
+| Defiant Battlegrounds - Reviewed Transcript | 17 | the_lightfall |
+| Of Queens and Worms: Parasitic Pilgrimage - Transcript | 16 | the_witch_queen |
+| Heist Battleground: Moon (Week 1) - Transcript | 16 | the_witch_queen |
+| Country Radio: Season of Defiance - Transcript | 11 | the_lightfall |
+| Heist Battleground: Moon (Week 4) - Transcript | 10 | the_witch_queen |
+| Heist Battleground: Mars (Week 4) - Transcript | 9 | the_witch_queen |
+| Of Queens and Worms: Meet with Mara Sov - Transcript | 8 | the_witch_queen |
+| Country Radio V: Mara and Crow - Transcript | 8 | the_lightfall |
+| Wishing All the Best - Polysemy (Week 1) - Transcript | 7 | the_lightfall |
+| Riven's Lair - Transcript | 7 | the_lightfall |
 
 ## Activity coverage
 
