@@ -14,5 +14,7 @@ grimoire gains content that changes how Mara Sov should be played.
 
 ## Key Beats by Transcript
 
-Use `python3 lore/db/query.py character "Mara Sov" --about <term>` and
-`transcript <ref> --canon-only` to confirm every line before citing it.
+Use `python3 lore/db/query.py character "Mara Sov" --about <term>` to find
+material, then `python3 lore/db/query.py verify "<line>" --speaker "Mara Sov" --exact`
+to confirm every line before citing it. `--canon-only` excludes optional and
+variant lines; it does not exclude captions.
