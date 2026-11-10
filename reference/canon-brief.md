@@ -3,7 +3,7 @@
 > **Depends On:** derived-themes.md
 > **Token Estimate:** ~1.5K tokens
 
-Speaker lines: 350 across 12 transcripts.
+Speaker lines: 350 across 83 transcripts (persona predicate).
 
 ## Sources
 
