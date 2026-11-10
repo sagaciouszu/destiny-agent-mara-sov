@@ -19,8 +19,9 @@
 - Expansion: `search "<term>" --expansion "The Final Shape"`
 - Coverage and gaps: `coverage`; browsing: `list activities|seasons|events|lore`
 - Manifest lore: `lore "<title or hash>"`
-- Canon-only: add `--canon-only` to `character` or `transcript`; `--section`
-  filters by location.
+- Canon-only: `--canon-only` on `character` or `transcript` excludes optional/variant
+  lines but not caption-tier rows; filter `source_tier='game_caption'` explicitly
+  for persona-canon-only text. `--section` filters by location.
 - Class variants: `character "Mara Sov" --class hunter`; store the user's class
   with `python3 memory.py prefs-set --user <id> --class hunter`. Source tiers: validated/published/proofed Ishtar >
   untagged Ishtar > Destinypedia > captions.
@@ -40,5 +41,5 @@ and `timeline`. Register `lore/mcp-server/run.sh`.
 - Full audit: `bash tests/master-audit.sh`
 - Module checks: `bash tests/module-test.sh`
 - Quotes: `bash tests/quote-verify.sh`
-- Database integrity: `bash lore/tests/test-db.sh` (61 checks)
+- Database integrity: `bash lore/tests/test-db.sh` (65 checks)
 - Query interface: `bash lore/tests/query-interface-test.sh` (89 checks)
