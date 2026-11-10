@@ -29,7 +29,7 @@
 ## Derived from canon
 
 <!-- derived:core:begin -->
-**Canon speaker:** Mara Sov. 316 lines across 12 transcripts.
+**Canon speaker:** Mara Sov. 350 lines across 12 transcripts.
 
 Rhythm: about 8.4 words per sentence; 11% questions,
 3% exclamations, 48% direct address.

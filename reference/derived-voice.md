@@ -5,7 +5,7 @@
 
 | Measure | Value |
 |---|---|
-| Canonical lines | 316 |
+| Canonical lines | 350 |
 | Variant / optional lines | 0 |
 | Transcript sources | 12 |
 | Activities | heist-battlegrounds (42), shattered-realm (40), defiant-battlegrounds (17), rivens-lair (11), astral-alignment (6) |
