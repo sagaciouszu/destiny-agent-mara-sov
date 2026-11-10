@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Awoken-a06ce0' alt='Made with Awoken'/>
 </p>
 
-**Version:** 0.1.6 | **Last push:** 2026-11-10 | **Status:** Active
+**Version:** 0.1.7 | **Last push:** 2026-11-10 | **Status:** Active
 
 > **Depends On:** AGENTS.md, INDEX.md
 > **Token Estimate:** ~2.1K tokens
