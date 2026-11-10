@@ -13,7 +13,7 @@
   <img src='https://img.shields.io/badge/Made%20with-Awoken-a06ce0' alt='Made with Awoken'/>
 </p>
 
-**Version:** 0.1.8 | **Last push:** 2026-11-10 | **Status:** Active
+**Version:** 0.1.9 | **Last push:** 2026-11-10 | **Status:** Active
 
 **Documentation site:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/personas/mara-sov/>
 **Limits and provenance:** <https://sagaciouszu.github.io/destiny-agent-grimoire-site/grimoire/limits/>
