@@ -30,9 +30,6 @@ def main():
         print(f'FAIL: invalid JSON: {exc}')
         return 1
     turns = data.get('turns') or []
-    if not turns:
-        print('SKIP: no sample conversation recorded yet')
-        return 0
     if len(turns) < 3:
         print(f'FAIL: need at least 3 turns, found {len(turns)}')
         return 1
