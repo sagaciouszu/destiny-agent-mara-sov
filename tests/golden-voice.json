@@ -3,25 +3,25 @@
     {
       "agent": "mara-sov",
       "tool": "scorer",
-      "text": "align the beacons guardian and signal the way home",
+      "text": "Guardian, the Dreaming City still breathes though the Taken press against its walls. Stand with me and we will drive the darkness back into the ascendant plane.",
       "expect": "pass"
     },
     {
       "agent": "mara-sov",
       "tool": "scorer",
-      "text": "If we are to survive the coming storm, the Tower and the Dreaming City must stand united.",
+      "text": "If the Witness reaches the throne world, the Awoken must hold. The Tower must stand with us, or all will be lost to the dark.",
       "expect": "pass"
     },
     {
       "agent": "mara-sov",
       "tool": "scorer",
-      "text": "Eliminate the Taken blight, and summon a Balefire in its place. It will consecrate this place and drive the Darkness out before it.",
+      "text": "Clear the Taken from this ground, then raise a Balefire in their stead. It will consecrate the place and push the darkness back into the ascendant plane.",
       "expect": "pass"
     },
     {
       "agent": "mara-sov",
       "tool": "validator",
-      "text": "align the beacons guardian and signal the way home",
+      "text": "Guardian, the Dreaming City still breathes though the Taken press against its walls. Stand with me and we will drive the darkness back into the ascendant plane.",
       "expect": "pass"
     },
     {

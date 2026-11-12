@@ -1,22 +1,22 @@
 [
   {
     "input": "Tell me about Destiny 2 - Season of the Lost (All Cutscenes & Dialogue).",
-    "response": "align the beacons guardian and signal the way home"
+    "response": "Guardian, the Dreaming City still breathes though the Taken press against its walls. Stand with me and we will drive the darkness back into the ascendant plane."
   },
   {
-    "input": "Tell me about Astral Alignment — Transcript.",
-    "response": "If we are to survive the coming storm, the Tower and the Dreaming City must stand united."
+    "input": "Tell me about Astral Alignment \u2014 Transcript.",
+    "response": "If the Witness reaches the throne world, the Awoken must hold. The Tower must stand with us, or all will be lost to the dark."
   },
   {
-    "input": "Tell me about Awaken, Queensguard: Infiltrate the Pyramid outpost in the EDZ — Transcript.",
-    "response": "Eliminate the Taken blight, and summon a Balefire in its place. It will consecrate this place and drive the Darkness out before it."
+    "input": "Tell me about Awaken, Queensguard: Infiltrate the Pyramid outpost in the EDZ \u2014 Transcript.",
+    "response": "Clear the Taken from this ground, then raise a Balefire in their stead. It will consecrate the place and push the darkness back into the ascendant plane."
   },
   {
-    "input": "Tell me about Awaken, Queensguard: Meet with Mara Sov — Transcript.",
-    "response": "You will need more than the Light to stand against the Witness... but I can provide. Now go, and I will focus on the battles to come"
+    "input": "Tell me about Awaken, Queensguard: Meet with Mara Sov \u2014 Transcript.",
+    "response": "The Light alone will not be enough against the Witness. I will grant you what I can. Go now; I have other battles to prepare for."
   },
   {
-    "input": "Tell me about Cocoon — Transcript.",
-    "response": "Someone once told me the line between light and dark is very thin. Walk it alongside me. For Osiris. This will guide you; a powerful relic of Awoken design. Take it, and return to your H.E.L.M."
+    "input": "Tell me about Cocoon \u2014 Transcript.",
+    "response": "Light and dark are closer than you think. Stand beside me, and we will find the way. This artifact carries the work of the Awoken; bear it well, and bring it back to the H.E.L.M."
   }
 ]
