@@ -47,5 +47,5 @@ and `timeline`. Register `lore/mcp-server/run.sh`.
 - Full audit: `bash tests/master-audit.sh`
 - Module checks: `bash tests/module-test.sh`
 - Quotes: `bash tests/quote-verify.sh`
-- Database integrity: `bash lore/tests/test-db.sh` (67 checks)
+- Database integrity: `bash lore/tests/test-db.sh` (68 checks)
 - Query interface: `bash lore/tests/query-interface-test.sh` (97 checks)
