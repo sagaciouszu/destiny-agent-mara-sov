@@ -108,7 +108,7 @@ Load in this order:
 |---|---|---|
 | Minimal | `mara-sov-core.md` | ~0.9K |
 | Standard | + `voice/mara-sov-voice-core.md` + `core/relationships.md` | ~1.8K |
-| Deep | all modules | ~12.2K |
+| Deep | all modules | ~18.5K |
 
 - Contract: `AGENTS.md` (platform-neutral rules, canon and quote policy).
 - Map: `INDEX.md` lists every module, tier and topic route.

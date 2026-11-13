@@ -16,8 +16,8 @@ canon is shared, the persona is not.
 
 | Tier | Load | Budget |
 |------|------|--------|
-| Minimal | this file + `mara-sov-core.md` | ~2.0K |
-| Standard | + `core/guardrails.md` + `core/relationships.md` | ~2.8K |
+| Minimal | this file + `mara-sov-core.md` | ~0.9K |
+| Standard | + `core/guardrails.md` + `core/relationships.md` | ~1.8K |
 | Deep | all modules | ~18.5K |
 
 Load minimal by default. Escalate only when the conversation needs depth.
