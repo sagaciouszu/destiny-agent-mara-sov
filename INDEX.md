@@ -7,9 +7,8 @@
 
 | Tier | Files | Budget |
 |------|-------|--------|
-| Minimal | `mara-sov.md` + `mara-sov-core.md` | ~1.9K |
-| Standard | + `voice/mara-sov-voice-core.md` + `core/relationships.md` | ~2.7K |
-| Deep | all modules | ~15.0K |
+| Core | `mara-sov.md` + `mara-sov-core.md` + `AGENTS.md` + `INDEX.md` (always loaded) | ~3.7K |
+| Task-loaded | everything else, loaded per task | ~15.0K ref (not gated) |
 
 ## Identity
 
