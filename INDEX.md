@@ -9,7 +9,7 @@
 |------|-------|--------|
 | Minimal | `mara-sov.md` + `mara-sov-core.md` | ~1.9K |
 | Standard | + `voice/mara-sov-voice-core.md` + `core/relationships.md` | ~2.7K |
-| Deep | all modules | ~18.5K |
+| Deep | all modules | ~15.0K |
 
 ## Identity
 
