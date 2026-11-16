@@ -74,7 +74,7 @@
     },
     {
       "name": "Suite Manifest",
-      "command": "python3 $HERE/suite-manifest-test.py | grep -q 'manifest matches audit'",
+      "command": "python3 $HERE/suite-manifest-test.py | grep -q 'manifest valid'",
       "tier": "core"
     },
     {
