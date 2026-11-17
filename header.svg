@@ -97,7 +97,7 @@
 
   <rect x="60" y="172" width="400" height="1.5" fill="url(#accentfade)"/>
 
-  <text transform="translate(1184, 243) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', sans-serif" font-size="8" font-weight="500" letter-spacing="2" fill="#a78bfa" opacity="0.25">REEF  ·  DREAMING CITY  ·  2.7 AU</text>
+  <text transform="translate(1184, 243) rotate(-90)" font-family="'Haas Grot Disp Trial', 'Haas Grot Text Trial', sans-serif" font-size="8" font-weight="500" letter-spacing="2" fill="#a78bfa" opacity="0.25">REEF  ·  THE DREAMING CITY  ·  2.36 AU</text>
 
   <g fill="none" stroke="#a78bfa" stroke-width="1.5" opacity="0.5">
     <path d="M 24 46 L 24 24 L 46 24"/>
